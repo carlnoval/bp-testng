@@ -2,8 +2,9 @@
 ## Requirements
 - Java LTS 17
 ## What comes with this project
-- Dockerized
-- Allure Reporting
-## Things to watch out for
-- Web Driver versions
-- POM (project object model) hell
+- Basic boiler plat for a TestNG project
+## Does not come with any of the following
+- Reporting
+- testng.xml file
+- dockerization
+- selenium grid
