@@ -6,8 +6,12 @@
 ## Things to watch out for
 - Web Driver versions
 - POM (project object model) hell
+## When creating a new repo out of this boiler plate
+- Update project folder name
+- Update artifactId in pm.xml
 ## Does not come with any of the following
-- Reporting
+- reporting
+- github actions
 - testng.xml file
 - dockerization
 - selenium grid
