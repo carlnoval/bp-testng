@@ -7,8 +7,10 @@
 - Web Driver versions
 - POM (project object model) hell
 ## When creating a new repo out of this boiler plate
-- Update project folder name
-- Update artifactId in pm.xml
+1. Delete the `.git` folder in root
+2. Update project folder's name
+3. Update artifactId in `pom.xml`
+   - Using the same name as the project folder would be nice
 ## Does not come with any of the following
 - reporting
 - github actions
