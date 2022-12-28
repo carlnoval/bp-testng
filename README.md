@@ -11,6 +11,7 @@
 2. Update project folder's name
 3. Update artifactId in `pom.xml`
    - Using the same name as the project folder would be nice
+4. Update `<module name="bp-testng" />` in `bp-testng/.idea/compiler.xml` to the proper project name
 ## Does not come with any of the following
 - reporting
 - github actions
