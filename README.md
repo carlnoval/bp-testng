@@ -2,7 +2,7 @@
 ## Requirements
 - Java LTS 17
 ## What comes with this project
-- Basic boiler plat for a TestNG project
+- Basic boiler plate for a TestNG project
 ## Things to watch out for
 - Web Driver versions
 - POM (project object model) hell
